@@ -3764,7 +3764,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4132,Kimberly Norris,2018-10-20,shot,gun,34,F,W,Darlington County,SC,False,attack,Not fleeing,True,-80.221,34.365,True
 4118,Cedric Pritchard,2018-10-21,shot,gun,,M,B,Washington,NC,False,other,Not fleeing,True,-77.056,35.556,True
 4119,,2018-10-21,shot,undetermined,,M,,Quincy,FL,False,undetermined,Car,False,-84.591,30.588,True
-4121,Jason Whittle,2018-10-22,shot,knife,26,M,W,Riverton,UT,False,attack,Not fleeing,False,-111.931,40.537,True
+4121,Jason Whittle,2018-10-22,shot,knife,26,M,W,Riverton,UT,True,attack,Not fleeing,False,-111.931,40.537,True
 4123,William David Williamson,2018-10-22,shot,unknown weapon,61,M,W,Newport,TN,False,attack,Not fleeing,False,-83.182,36.073,True
 4120,Tafahree Maynard,2018-10-22,shot and Tasered,lawn mower blade,18,M,B,Snellville,GA,False,other,Not fleeing,False,,,True
 4127,Shaunday Mullins,2018-10-23,shot,gun,37,M,N,Tulsa,OK,False,attack,Not fleeing,False,-95.923,36.148,True
@@ -5032,7 +5032,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5523,Daniel Murillo,2020-02-05,shot,knife,56,M,W,Washoe,NV,False,other,Not fleeing,False,-119.799,39.548,True
 5565,Gaston A. Nava-Saucedo,2020-02-05,shot,vehicle,33,M,H,Topeka,KS,False,attack,Car,False,-95.669,39.05,True
 5512,Sean Patrick Constance,2020-02-06,shot,gun,37,M,W,Port Charlotte,FL,False,attack,Car,False,-82.146,27.013,True
-5514,Juston Root,2020-02-07,shot,gun,41,M,W,Brookline,MA,True,attack,Car,False,,,True
+5514,Juston Root,2020-02-07,shot,toy weapon,41,M,W,Brookline,MA,True,attack,Car,False,,,True
 5524,Michael Collins,2020-02-07,shot,knife,38,M,W,Sapulpa,OK,True,other,Not fleeing,False,-96.107,35.975,True
 5562,Joshua Downing,2020-02-07,shot,gun,32,M,,Kansas City,MO,False,attack,Not fleeing,False,-94.546,39.103,True
 5518,Douglas Harold Hart,2020-02-08,shot,gun,67,M,W,Vestavia Hills,AL,False,attack,Not fleeing,False,-86.7,33.488,True
@@ -5680,23 +5680,62 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6205,John Derek Aycoth,2020-10-03,shot,gun,20,M,,Myrtle Beach,SC,False,attack,,False,-78.901,33.676,True
 6204,Jonathan Price,2020-10-03,shot and Tasered,undetermined,32,M,B,Wolfe City,TX,False,undetermined,Not fleeing,False,-96.069,33.371,True
 6206,Christopher Ulmer,2020-10-04,shot,undetermined,30,M,,Chula Vista,CA,False,other,Car,False,-117.069,32.652,True
-6223,Andrew Williams,2020-10-04,shot,unknown weapon,41,M,,Vancouver,WA,False,other,Not fleeing,False,-122.65,45.64,True
+6223,Andrew A. Williams,2020-10-04,shot,unknown weapon,41,M,,Vancouver,WA,False,other,Not fleeing,False,-122.65,45.64,True
 6224,Diego Eguino-Alcala,2020-10-04,shot,gun,27,M,H,Las Cruces,NM,False,attack,Not fleeing,False,-106.764,32.32,True
 6221,Juan Adrian Garcia,2020-10-05,shot,unarmed,47,M,H,Napa,CA,False,other,Not fleeing,True,-122.271,38.258,True
-6219,Chester McDonald,2020-10-06,shot,gun,44,M,,Georgetown,KY,False,attack,Not fleeing,False,-84.669,38.212,True
+6219,Chester T. McDonald,2020-10-06,shot,gun,44,M,,Georgetown,KY,False,attack,Not fleeing,False,-84.669,38.212,True
 6220,John Hare,2020-10-06,shot,gun,62,M,W,Fayetteville,NC,True,attack,,False,-79.022,34.995,True
-6222,Crystal Starling Mcclinton,2020-10-06,shot,gun,48,F,W,Hilliard,FL,True,attack,Not fleeing,False,-81.918,30.698,True
-6217,,2020-10-08,shot,gun,,M,,Philadelphia,PA,False,attack,Other,False,-75.176,40.038,True
-6218,Tyran Dent,2020-10-08,shot,gun,24,M,B,New York,NY,False,attack,Other,False,-73.933,40.851,True
-6225,Justin Caldwell,2020-10-08,shot,gun,47,M,,Palm City,FL,True,attack,Not fleeing,False,-80.3,27.186,True
-6214,Sylvia Kirchner,2020-10-09,shot,gun,41,F,W,Horry County,SC,True,undetermined,,False,-79.056,33.606,True
-6215,Anthony Michael Legato,2020-10-09,shot,gun,25,M,,Pine County,MN,False,attack,Car,True,-92.888,46.105,True
-6216,Kalun Purucker,2020-10-09,shot,undetermined,29,M,W,Salina,KS,False,undetermined,Car,False,-97.63,38.825,True
-6226,Ariel Esau Lujan,2020-10-09,shot,gun,29,M,,Houston,TX,False,attack,,False,-95.309,29.621,True
+6222,Crystal Renee Starling-McClinton,2020-10-06,shot,gun,48,F,W,Hilliard,FL,True,attack,Not fleeing,False,-81.918,30.698,True
+6217,Stanley Cochran,2020-10-08,shot,gun,29,M,B,Philadelphia,PA,False,attack,Other,False,-75.176,40.038,True
+6218,Tyran Dent,2020-10-08,shot,gun,24,M,B,New York,NY,False,attack,Other,True,-73.933,40.851,True
+6225,Justin Caldwell,2020-10-08,shot,gun,47,M,W,Palm City,FL,True,attack,Not fleeing,False,-80.3,27.186,True
+6214,Sylvia Veronica Kirchner,2020-10-09,shot,gun,41,F,W,Horry County,SC,True,other,,False,-79.056,33.606,True
+6215,Anthony Michael Legato,2020-10-09,shot,unarmed,25,M,W,Pine County,MN,False,undetermined,Car,True,-92.888,46.105,True
+6216,Kalun Purucker,2020-10-09,shot,gun,29,M,W,Salina,KS,False,attack,Car,False,-97.63,38.825,True
+6226,Ariel Esau Lujan,2020-10-09,shot,gun,29,M,H,Houston,TX,False,attack,,False,-95.309,29.621,True
 6213,Cesar Vargas,2020-10-10,shot,knife,21,M,H,San Francisco,CA,False,other,Car,True,-122.42,37.772,True
-6227,,2020-10-12,shot,undetermined,,M,,Billings,MT,False,attack,,False,-108.572,45.786,True
-6229,Anthony Jones,2020-10-12,shot,unarmed,24,M,,Bethel Springs,TN,False,other,Car,False,,,True
-6228,Marcos Ramirez,2020-10-13,shot,knife,27,M,H,Bakersfield,CA,False,attack,Foot,True,-118.994,35.373,True
-6230,,2020-10-14,shot,knife,,M,W,Chico,CA,False,attack,Foot,False,,,True
+6227,Cole F. Stump,2020-10-12,shot and Tasered,gun,29,M,N,Billings,MT,False,attack,,False,-108.572,45.786,True
+6229,Anthony Jones,2020-10-12,shot and Tasered,gun,24,M,,Bethel Springs,TN,False,other,Car,False,,,True
+6228,Jose Marcos Ramirez,2020-10-13,shot,knife,27,M,H,Bakersfield,CA,False,attack,Foot,True,-118.994,35.373,True
 6231,,2020-10-14,shot,gun,,M,,South Los Angeles,CA,False,attack,Not fleeing,False,,,True
-6232,,2020-10-14,shot,spear,,M,,Cookson,OK,False,attack,Not fleeing,False,,,True
+6239,Yoel Arnaldo Mejia Santel,2020-10-14,shot,machete,28,M,H,Frostproof,FL,True,other,Not fleeing,False,-81.531,27.746,True
+6240,Kevin Carr,2020-10-14,shot,gun,23,M,,Los Angeles,CA,False,attack,,False,-118.283,33.935,True
+6230,Steven Vest,2020-10-14,shot and Tasered,knife,30,M,W,Chico,CA,False,attack,Foot,False,,,True
+6232,,2020-10-14,shot and Tasered,spear,,M,,Cookson,OK,False,attack,Not fleeing,False,,,True
+6234,,2020-10-16,shot,gun,,M,,Sioux Falls,SD,False,attack,Not fleeing,False,-96.756,43.556,True
+6237,Alberto Rivas,2020-10-16,shot,gun,57,M,,Huntsville,AL,False,attack,Not fleeing,False,-86.572,34.628,True
+6238,Fred Williams,2020-10-16,shot,gun,25,M,B,Los Angeles,CA,False,attack,Foot,False,-118.265,33.923,True
+6246,Akbar Muhammad Eaddy,2020-10-16,shot,gun,27,M,B,Rock Island,IL,False,attack,Other,True,-90.568,41.5,True
+6235,,2020-10-17,shot,gun,,M,,Laguna,NM,False,attack,Car,False,-107.38,35.032,True
+6236,Darren W. Randolph,2020-10-17,shot,gun,53,M,,Muhlenberg County,KY,True,attack,Not fleeing,False,-87.142,37.177,True
+6241,Paul Matthew Baily,2020-10-17,shot,undetermined,21,M,W,Wood County,WV,False,undetermined,,False,-81.436,39.215,True
+6233,,2020-10-18,shot,gun,,M,,Sunrise,FL,True,attack,Not fleeing,False,-80.329,26.134,True
+6245,Gregory Putnik,2020-10-18,shot,gun,32,M,W,Fresno,CA,False,attack,Foot,False,-119.821,36.758,True
+6247,Tutuila Pine Koonwaiyou,2020-10-18,shot,gun,37,M,,Tooele,UT,False,other,Not fleeing,False,-112.298,40.531,True
+6242,,2020-10-19,shot,gun,43,M,,South Milwaukee,WI,False,attack,Not fleeing,False,-87.856,42.899,True
+6244,Bryan Paul Selmer,2020-10-19,shot,gun,,M,W,Emmitsburg,MD,False,attack,Other,False,-79.677,34.609,True
+6243,Paul Sulkowski,2020-10-19,shot and Tasered,knife,46,M,,Coram,NY,False,other,,False,-73.01,40.875,True
+6248,Marcellis Stinnette,2020-10-20,shot,unarmed,19,M,B,Waukegan,IL,False,other,Car,False,-87.833,42.349,True
+6250, ,2020-10-20,shot,undetermined,,M,,Phoenix,AZ,False,attack,Not fleeing,False,-112.035,33.509,True
+6251,Rodney Arnez Barnes,2020-10-20,shot,gun,48,M,B,Elmwood Place,OH,False,attack,Not fleeing,False,-84.49,39.187,True
+6252,James Collins,2020-10-20,shot,gun,61,M,,Spring Hill,FL,False,attack,Not fleeing,False,-82.603,28.448,True
+6261,,2020-10-20,shot,gun,,M,,Perdido Key,FL,True,attack,Not fleeing,False,-87.426,30.298,True
+6249,Gregory Jackson,2020-10-21,shot,knife,45,M,B,Moss Point,MS,False,attack,Not fleeing,False,-88.552,30.412,True
+6264,Steven Belleville,2020-10-21,shot,gun,35,M,,Bradenton,FL,False,attack,Not fleeing,False,-82.641,27.464,True
+6258,Francisco Danny Flores,2020-10-22,shot,gun,30,M,H,Casa Grande,AZ,False,attack,Car,False,-111.757,32.894,True
+6259,Mark Matthew Bender,2020-10-22,shot,gun,35,M,B,San Bernardino,CA,False,attack,Not fleeing,False,,,True
+6262,Keith Beecroft,2020-10-22,shot,gun,43,M,,Eagle River,AK,True,attack,Not fleeing,False,-149.558,61.309,True
+6263,Michael Nichols,2020-10-22,shot,unknown weapon,63,M,,Roane County,WV,False,other,,False,-81.478,38.585,True
+6257,John Lipski,2020-10-23,shot,gun,62,M,,Goodman,WI,False,attack,Car,False,-88.359,45.629,True
+6260,Marc Nevarez,2020-10-23,shot,gun,25,M,,Chicago,IL,False,attack,Foot,False,-87.717,41.844,True
+6265,,2020-10-23,shot,gun,,M,,Huntsville,UT,False,attack,Not fleeing,False,,,True
+6254,Brandon Evans,2020-10-24,shot,knife,33,M,W,Lawrenceburg,IN,False,attack,Not fleeing,False,,,True
+6255,Jakerion Shmond Jackson,2020-10-24,shot,gun,19,M,B,Sylvester,GA,False,attack,Other,False,-83.829,31.53,True
+6253,Paul Sarver,2020-10-25,shot,,53,M,,Phoenix,AZ,False,attack,Not fleeing,False,-112.119,33.734,True
+6266,Walter Wallace,2020-10-26,shot,knife,27,M,B,Philadelphia,PA,True,other,Not fleeing,False,-75.244,39.958,True
+6270,Michael K. Nelson,2020-10-26,shot,gun,27,M,,Alexandria,VA,False,attack,Foot,False,-77.044,38.815,True
+6268,Isaac Lemoine Christensen,2020-10-27,shot,gun,38,M,W,Herriman,UT,False,other,,True,-112.017,40.509,True
+6269,Clifton Gorman Spencer,2020-10-27,shot,gun,35,M,,Chattanooga,TN,False,other,,False,-85.112,35.04,True
+6271,Bennie Biby,2020-10-28,shot,undetermined,44,M,W,Trigg County,KY,False,undetermined,,False,-87.88,36.872,True
+6273,Charles Robert Arviso,2020-10-28,shot,gun,35,M,H,Tucson,AZ,False,attack,Foot,False,-110.998,32.135,True
+6272,Kevin Peterson,2020-10-29,shot,undetermined,21,M,B,Hazel Dell,WA,False,undetermined,Foot,False,-122.663,45.672,True
