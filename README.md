@@ -11,6 +11,21 @@ Initial project plan: https://docs.google.com/document/d/19h71Tb5defCEh8t2RSn573
 
 I (NP) have been using the cs109a environment. If you all find that you need additional packages on top of that, please add a list here!
 
+## DATA
+### data/LEMAS: Law Enforcement Management And Administrative Statistics
+
+url: https://www.bjs.gov/index.cfm?ty=dcdetail&iid=248
+
+" Beginning in 2016, the Law Enforcement Management and Administrative Statistics (LEMAS) survey adopted a core and supplement structure. Conducted periodically since 1987, the LEMAS core collects data from over 3,000 general purpose, county, and local law enforcement agencies, including all those that employ 100 or more full-time sworn officers and a nationally representative sample of smaller agencies. **Data are obtained on agency responsibilities, operating expenditures, job functions of sworn and civilian employees, officer salaries and special pay, demographic characteristics of officers, weapons and armor policies, education and training requirements, computers and information systems, vehicles, special units, and community policing activities.** Due to the breadth of the survey, detailed analysis of any specific law enforcement topic cannot be done with the LEMAS core. The LEMAS supplements are designed to fill this void by allowing for a more comprehensive examination on a key topic in law enforcement and are administered between core years. The 2016 LEMAS Body-Worn Camera Supplement is the first supplement administered under the new structure. "
+
+#### data/LEMAS/lpd16p : Local police departments, 2016, Personnel
+
+Includes demographics information such as sex, race, ethnicity, etc
+
+#### data/LEMAS/so16p : Sheriffs' Office, 2016, Personnel
+
+Includes demographics information such as sex, race, ethnicity, etc
+
 
 
 ## Data sources
