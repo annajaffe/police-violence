@@ -2,6 +2,9 @@
 
 
 Repository for cs109a Final Project, Group 14
+
+Project brief: https://github.com/Harvard-IACS/2020-CS109A/blob/master/content/projects/Project%20Topics/Police%20Violence.pdf
+
 Initial project plan: https://docs.google.com/document/d/19h71Tb5defCEh8t2RSn573o0hgQDLr5c8LOp--RDrro/edit
 
 ## Environment & dependencies
